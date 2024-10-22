@@ -1,0 +1,25 @@
+
+body {
+  background-color: midnightblue;
+  color: white;
+}
+a {
+  color: lightgray;
+}
+table, th, td {
+  border: 1px solid;
+}
+h1 {
+  color: darkorange;
+  text-align: center;
+}
+li:hover {
+  font-size: larger;
+  color: hotpink;
+}
+.important{ font-weight: bolder; }
+
+p {
+  font-family: verdana;
+  font-size: 100px;
+}
